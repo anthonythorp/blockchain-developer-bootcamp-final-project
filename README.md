@@ -23,7 +23,7 @@ The workflow involved in the contracting, supply and invoicing of services:
 
 
 
-Point 3 above is the one I want to focus on above, but I am not yet sure how far into 1 and 2 I need to include for practical purposes. However, for this project I will regard receipt of services as automatic/assumed and the benefit of this solution will be:
+Point 3 above is what I will focus on for this project, but I am not yet sure how far into 1 and 2 I need to include for practical purposes. To simplify the business process I will regard receipt of services as automatic/assumed and the benefit of this solution will be:
 1. confirmation of the identity of the invoice issuer, and 
 2. the invoice can only be issued once, and 
-3. verification that the invoice has been paid (the invoice cannot be paid twice)
+3. verification as to whether the invoice has been paid (the invoice cannot be paid twice)
